@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "340001189836",
+    "project_id": "flutter-brew-crew-a31d7",
+    "storage_bucket": "flutter-brew-crew-a31d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340001189836:android:26877ffacfb8686cef3769",
+        "android_client_info": {
+          "package_name": "com.example.brewCrew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340001189836-ej8q7im9u5juhs9nnck2kbj4gcdj9m1m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGZpZ7tzpWM3THB44Ly2FRbcA-bb1Fi_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340001189836-ej8q7im9u5juhs9nnck2kbj4gcdj9m1m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
